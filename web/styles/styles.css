@@ -1,0 +1,10 @@
+body {
+    background-color: white;
+}
+
+header {
+    text-align: center;
+    background-color: lightblue;
+    border-style: outset;
+    border-radius: 20px;
+}
