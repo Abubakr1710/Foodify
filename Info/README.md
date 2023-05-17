@@ -32,7 +32,7 @@ I have implemented features such as order tracking, delivery status updates, and
 
 Take some time to explore the delivery section and familiarize yourself with the available features for managing deliveries effectively.
 
-### *Contributor 5*
+### *Jaloliddin Sultonov*
 #### _Personal Information_
 I am the fifth contributor, and my area of expertise lies in the personal information section of the web application.
 
