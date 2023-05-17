@@ -57,6 +57,6 @@ Abubakr Mamajonov : Introduction and Project folder structure for developers.
 Contributor 2: Home
 Sirisa Kornnawawat : Log in / Sign up
 Contributor 4: Delivery
-Contributor 5: Personal Informations
+Jaloliddin Sultonov : Personal Informations
 Contributor 6: How it works and Contact.
 ```
