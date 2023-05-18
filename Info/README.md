@@ -40,7 +40,7 @@ In this section, users can manage their personal details, such as name, contact 
 
 Feel free to explore the personal information section and make any necessary updates to your profile as needed.
 
-### *Contributor 6*
+### *Iskhak Suranov*
 #### _How It Works and Contact_
 Welcome to the final section of the web application! I am the sixth contributor, responsible for the "How It Works" and "Contact" sections.
 
@@ -58,5 +58,5 @@ Contributor 2: Home
 Sirisa Kornnawawat : Log in / Sign up
 Arslan Shaidilla : Delivery
 Jaloliddin Sultonov : Personal Informations
-Contributor 6: How it works and Contact.
+Iskhak Suranov: How it works and Contact.
 ```
