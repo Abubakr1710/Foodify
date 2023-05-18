@@ -102,6 +102,23 @@ elif choice == "Personal Information":
 
 elif choice == 'Statistics':
     st.markdown("<h1 style='text-align: center;'>Statistics</h1>", unsafe_allow_html=True)
+    st.markdown("<h3 style='text-align: center;'>Statistics on calorie expenditure provide valuable insights into individual and population health, facilitating informed decision-making in weight management and public health initiatives.</h3>", unsafe_allow_html=True)
+    # selectbox for month
+    month = st.selectbox('Please choose month:', ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'])
+
+    st.markdown("<h3 style='text-align: center;'>Average Calorie Spending per day in " + month + "</h3>", unsafe_allow_html=True)
+    chart_data = pd.DataFrame(
+        np.random.randn(30, 1),
+        columns=['User'])
+
+    st.line_chart(chart_data)
+
+    st.markdown("<h3 style='text-align: center;'>Average Calorie Spending between Average Family and User </h3>", unsafe_allow_html=True)
+    chart_data = pd.DataFrame(
+        np.random.randn(30, 2),
+        columns=['User', 'Family'])
+
+    st.line_chart(chart_data)
 
 elif choice == 'How it works?':
     st.markdown("<h1 style='text-align: center;'>How it works?</h1>", unsafe_allow_html=True)
