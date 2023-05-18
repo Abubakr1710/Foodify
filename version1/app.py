@@ -6,7 +6,7 @@ st.cache(allow_output_mutation=True)
 
 st.sidebar.image("logo.jpg")
 menu = ["Home", "Log in / Sign Up", "Delivery" ,"Personal Information", "Statistics","How it works?", "Contact"]
-choice = st.sidebar.selectbox("Cannot remember our quote",menu)
+choice = st.sidebar.selectbox("Revolutionize meal planning, minimize waste.",menu)
 
 if choice == "Home":
     st.markdown("<h1 style='text-align: center;'>Introduction</h1>", unsafe_allow_html=True)

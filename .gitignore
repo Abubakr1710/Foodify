@@ -1,4 +1,4 @@
-# Gitignore file. You can choose file/folder that will not upload to GitHub.
+# Gitignore file. You can choose file/folder that will not upload into GitHub.
 
 # Virtual Environment
 .env
