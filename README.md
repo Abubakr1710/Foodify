@@ -44,8 +44,19 @@ Flask: for the web application framework
 PostgreSQL: For Database
 ```
 
-
 ### *License*
 ```
 This project is licensed under the MIT License
+```
+
+
+### *Contributors*
+```
+Abubakr Mamajonov : Introduction and Project folder structure for developers.
+Bezawit Alemayehu: Home.
+Sirisa Kornnawawat : Log in / Sign up.
+Arslan Shaidilla : Delivery.
+Jaloliddin Sultonov : Personal Informations.
+Imamidin Galdarov : Statistics.
+Iskhak Suranov: How it works and Contact.
 ```
