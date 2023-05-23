@@ -27,10 +27,6 @@ Foodify comes packed with a variety of powerful features to help you plan your m
 - **Powerful back-end algorithms:** Foodify's back-end algorithms are designed to optimize meal planning and dish recommendations based on a variety of factors, including nutritional content, ingredient availability, and more.
 
 
-### *Website*
-You can access the website at the following link: [There will be link after the project completion]
-
-
 ### *Technologies used*
 This project uses a variety of technologies, including:
 ```
@@ -41,6 +37,7 @@ Python: For Data Preprocessing and Machine Learning / Deep Learning
 Numpy: For Numerical computing
 Pandas: For Data Manipulation and Analysis
 Matplotlib: For Data Visualization
+Streamlit: For First Verion of web application
 Scikit-Learn: For Machine Learning algorithms
 Pytorch: For Deep Learning models
 Flask: for the web application framework
