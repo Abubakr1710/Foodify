@@ -8,7 +8,7 @@ Additionally, I have contributed an introduction section to provide an overview 
 
 Feel free to explore the project folder structure and refer to the introduction section for a better understanding of the project's scope and objectives.
 
-### *Contributor 2* 
+### *Bezawit Alemayehu* 
 #### _Home_
 As the second contributor, my primary responsibility is the home section of the web application. I have worked on designing and implementing the homepage to create an engaging and intuitive user experience.
 
@@ -24,7 +24,7 @@ I have implemented the necessary features and user interface elements to allow u
 
 Feel free to test the log in and sign up functionality and provide feedback for further improvements.
 
-### *Contributor 4* 
+### *Arslan Shaidilla* 
 #### _Delivery_
 As the fourth contributor, I have dedicated my efforts to the delivery section of the web application. This section focuses on managing and tracking the delivery of products or services.
 
@@ -40,6 +40,16 @@ In this section, users can manage their personal details, such as name, contact 
 
 Feel free to explore the personal information section and make any necessary updates to your profile as needed.
 
+### *Imamidin Galdarov*
+#### _Statistics_
+Hello everyone! I am the seventh contributor to this GitHub repository, and my area of focus is on the statistics section of the web application.
+
+In the statistics section, I have implemented features that allow users to view and analyze various data related to the project. This may include charts, graphs, tables, or any other visual representations to present statistical information effectively.
+
+By exploring the statistics section, users can gain insights into the project's performance, user engagement, or any other relevant metrics.
+
+Feel free to delve into the statistics section to discover valuable data and draw meaningful conclusions.
+
 ### *Iskhak Suranov*
 #### _How It Works and Contact_
 Welcome to the final section of the web application! I am the sixth contributor, responsible for the "How It Works" and "Contact" sections.
@@ -54,9 +64,10 @@ Feel free to explore the "How It Works" and "Contact" sections to enhance your u
 
 ```
 Abubakr Mamajonov : Introduction and Project folder structure for developers.
-Contributor 2: Home
-Sirisa Kornnawawat : Log in / Sign up
-Arslan Shaidilla : Delivery
-Jaloliddin Sultonov : Personal Informations
+Bezawit Alemayehu: Home.
+Sirisa Kornnawawat : Log in / Sign up.
+Arslan Shaidilla : Delivery.
+Jaloliddin Sultonov : Personal Informations.
+Imamidin Galdarov : Statistics.
 Iskhak Suranov: How it works and Contact.
 ```
